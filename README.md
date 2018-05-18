@@ -1,2 +1,0 @@
-# violadj
-Discord Bot
